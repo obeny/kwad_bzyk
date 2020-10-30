@@ -1,7 +1,7 @@
 dump
 
 # version
-# Betaflight / STM32F7X2 (S7X2) 4.2.3 Sep 20 2020 / 20:44:12 (2696b7c88) MSP API: 1.43
+# Betaflight / STM32F7X2 (S7X2) 4.2.4 Oct 20 2020 / 08:20:06 (fbcaf8c50) MSP API: 1.43
 # config: manufacturer_id: MTKS, board_name: MATEKF722SE, version: f173f9bc, date: 2019-10-02T14:43:13Z
 
 # start the command batch
@@ -869,7 +869,7 @@ set osd_esc_rpm_freq_pos = 234
 set osd_rtc_date_time_pos = 234
 set osd_adjustment_range_pos = 234
 set osd_flip_arrow_pos = 2203
-set osd_core_temp_pos = 234
+set osd_core_temp_pos = 2456
 set osd_log_status_pos = 234
 set osd_stick_overlay_left_pos = 234
 set osd_stick_overlay_right_pos = 234
